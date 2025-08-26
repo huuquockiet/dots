@@ -1,0 +1,2 @@
+# dots
+Personal Hyprland config
