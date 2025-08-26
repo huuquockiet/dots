@@ -1,2 +1,2 @@
-# dots
+# Rice 🍚 😋
 Personal Hyprland config
